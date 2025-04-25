@@ -89,12 +89,14 @@ h3,
 h4,
 .fw-semi-bold {
     font-weight: 700 !important;
+    font-size: 15px;
 }
 
 h5,
 h6,
 .fw-medium {
     font-weight: 600 !important;
+    font-size: 13px;
 }
 
 
