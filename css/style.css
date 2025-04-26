@@ -85,6 +85,11 @@ h2,
     font-weight: 800 !important;
 }
 
+.team-img-centered {
+    display: block;
+    margin: 0 auto;
+}
+
 .call{
     font-size: 15px;
 }
