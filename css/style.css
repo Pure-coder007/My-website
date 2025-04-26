@@ -85,6 +85,10 @@ h2,
     font-weight: 800 !important;
 }
 
+.call{
+    font-size: 15px;
+}
+
 h3,
 h4,
 .fw-semi-bold {
